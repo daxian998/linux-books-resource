@@ -3,7 +3,7 @@
 
 # 共享Resource下载地址
 
-访问google
+访问Google
 
     http://coderschool.cn/1853.html
     https://google.jiongjun.cc/
@@ -44,12 +44,16 @@ MySQL下载地址：
     5.5源码包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.55.tar.gz
 
     5.6源码包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.36.tar.gz
+    
+    5.7源码包：http://mirrors.sohu.com/mysql/MySQL-5.7/mysql-5.7.23.tar.gz
+    
+    8.0源码包：http://mirrors.sohu.com/mysql/MySQL-8.0/mysql-8.0.11.tar.gz
 
 MariaDB下载地址：
 
-    10.2.6 64位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
+    10.5.0 64位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.5.0/bintar-linux-glibc_214-x86_64/mariadb-10.5.0-linux-glibc_214-x86_64.tar.gz
 
-    10.2.6 32位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
+    10.5.0 32位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.5.0/bintar-linux-glibc_214-x86/mariadb-10.5.0-linux-glibc_214-i686.tar.gz
 
 Apache下载地址：
 
@@ -95,11 +99,11 @@ memcache php扩展下载地址：
 
 memcached下载地址：
 
-     http://memcached.org/files/memcached-1.4.30.tar.gz
+     http://memcached.org/files/memcached-1.5.20.tar.gz
 
 redis下载地址
-
-    https://codeload.github.com/antirez/redis/tar.gz/2.8.21  (下载后改名redis-2.8.21.tar.gz)
+    
+    http://download.redis.io/releases/redis-5.0.7.tar.gz
 
 redis php扩展下载地址：
 
@@ -117,11 +121,13 @@ pureftp下载地址：
 
 java JDK下载地址：
 
-    1.9版本 http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
+    1.9版本： http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
 
-    1.8版本 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+    1.8版本： http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-    1.7版本下载地址  http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+    1.7版本： http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+    
+    1.13版本：https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_linux-x64_bin.tar.gz
 
 tomcat下载地址：
 
